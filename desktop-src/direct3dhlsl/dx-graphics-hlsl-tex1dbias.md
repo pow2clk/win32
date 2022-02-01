@@ -1,4 +1,6 @@
 ---
+NOPENOPENOPE
+
 title: tex1Dbias
 description: Samples a 1D texture after biasing the mip level by t.w.
 ms.assetid: 2619ae23-e4b2-4699-b2ac-5ee711f9569a
